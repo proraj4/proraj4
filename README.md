@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @proraj4
-- 👀 I’m interested in exporing new technology 
-- 🌱 I’m currently learning ece
-- 💞️ I’m looking to collaborate on cybersecurity
-- 📫 How to reach me rsreerajr0046@gmail.com,7025745039
-- I am someone who is intrested to learn more on coding and stuff ,Iam quite hard working and am confident  that i can contribute on many area afer starting to earn
+👋 Hi, I’m Sreeraj R.
+
+👀 I’m passionate about exploring new technologies and advancing my knowledge in the field of Electronics and Communication Engineering (ECE).
+🌱 Currently learning and working on signal processing, control systems, embedded systems, and VLSI chip design.
+💞️ Open to collaborating on projects related to satellite communications, machine learning, embedded systems, and VLSI.
+📫 Reach me at rsreerajr0046@gmail.com or +91 7025745039.
+🧑‍💻 I am a dedicated learner, enthusiastic about coding and hands-on projects. I aim to grow my skills and make meaningful contributions to impactful areas of technology.
 
 <!---
 proraj4/proraj4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
